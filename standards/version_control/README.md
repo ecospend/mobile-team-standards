@@ -11,6 +11,6 @@ Wherever possible these standards follow built-in versioning facilities for the 
 
  ## Contents
 
-- [Branching Strategy](/branch_strategy.md)
-- [Code Review](/code_review.md)
-- [Commit Messages](/commit_messages.md)
+- [Branching Strategy](./branch_strategy.md)
+- [Code Review](./code_review.md)
+- [Commit Messages](./commit_messages.md)

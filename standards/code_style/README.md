@@ -8,5 +8,5 @@ These are common standards that apply to coding for iOS & Android and they are d
 
  ## Contents
 
-- [Android coding standards](/Android_coding_style_guideline.md)
-- [iOS coding standards](/iOS_coding_style_guideline.md)
+- [Android coding standards](./Android_coding_style_guideline.md)
+- [iOS coding standards](./iOS_coding_style_guideline.md)
